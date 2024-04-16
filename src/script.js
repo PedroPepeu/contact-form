@@ -6,7 +6,7 @@ const inpMsg = document.getElementById('msg');
 const urlBase = "https://parseapi.back4app.com/classes/Chamado";
 
 const headers = {
-    "X-Parse-Applications-Id": "Zk8NxNRBKdm57eMriIewhCfuoghpWRyeZEPQzj1p",
+    "X-Parse-Application-Id": "Zk8NxNRBKdm57eMriIewhCfuoghpWRyeZEPQzj1p",
     "X-Parse-REST-API-Key": "FaZAEmmGgjIIY8TPztDcAiMkghsUY0AMFTbHLJgK",
 };
 
